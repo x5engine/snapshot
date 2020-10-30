@@ -148,7 +148,7 @@
         
         <iframe 
           v-bind:src="'http://localhost:3000/embed/0x44c68bc0038635feb4bf7776c24f0c71748fa4bc3a73d3f94115959469da83a1/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48?space=' + this.app.spaces[this.key].skin"
-          height="300"
+          height="320"
           width="100%"
           frameBorder="0"
         />
