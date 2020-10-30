@@ -151,9 +151,6 @@
           height="300"
           width="100%"
           frameBorder="0"
-          referrerpolicy="unsafe-url"
-          id="myIframe"
-          name="test"
         />
         
       </div>
